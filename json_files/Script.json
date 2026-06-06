@@ -1,0 +1,34 @@
+[
+    {
+      "relative_url": "aryaskumar0710/Cab_Data_Analysis/refs/heads/main/csv_files/city_target_passenger_rating.csv",
+      "file_name": "city_target_passenger_rating.csv"
+    },
+    {
+      "relative_url": "aryaskumar0710/Cab_Data_Analysis/refs/heads/main/csv_files/dim_city.csv",
+      "file_name": "dim_city.csv"
+    },
+    {
+      "relative_url": "aryaskumar0710/Cab_Data_Analysis/refs/heads/main/csv_files/dim_date.csv",
+      "file_name": "dim_date.csv"
+    },
+    {
+      "relative_url": "aryaskumar0710/Cab_Data_Analysis/refs/heads/main/csv_files/dim_repeat_trip_distribution.csv",
+      "file_name": "dim_repeat_trip_distribution.csv"
+    },
+    {
+      "relative_url": "aryaskumar0710/Cab_Data_Analysis/refs/heads/main/csv_files/fact_passenger_summary.csv",
+      "file_name": "fact_passenger_summary.csv"
+    },
+    {
+      "relative_url": "aryaskumar0710/Cab_Data_Analysis/refs/heads/main/csv_files/fact_trips.csv",
+      "file_name": "fact_trips.csv"
+    },
+    {
+      "relative_url": "aryaskumar0710/Cab_Data_Analysis/refs/heads/main/csv_files/monthly_target_new_passengers.csv",
+      "file_name": "monthly_target_new_passengers.csv"
+    },
+    {
+      "relative_url": "aryaskumar0710/Cab_Data_Analysis/refs/heads/main/csv_files/monthly_target_trips.csv",
+      "file_name": "monthly_target_trips.csv"
+    }
+]
